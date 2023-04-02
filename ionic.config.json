@@ -1,0 +1,7 @@
+{
+  "name": "Ionic React Tailwindcss",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
